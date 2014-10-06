@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F7E85F1-7306-4BB9-BB3B-1BCAF2E7AE95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloMac</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB8367245B98E625813D63D4FD0DDFCA944557E1</key>
+		<string>https://github.com/ivaliceLP/HelloMac.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloMac.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB8367245B98E625813D63D4FD0DDFCA944557E1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ivaliceLP/HelloMac.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB8367245B98E625813D63D4FD0DDFCA944557E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB8367245B98E625813D63D4FD0DDFCA944557E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HelloMac</string>
+		</dict>
+	</array>
+</dict>
+</plist>
